@@ -1,3 +1,5 @@
+NOTE: This filter is no longer developed and has been replaced by oEmbed filter https://github.com/MSOpenTech/moodle-filter_oembed
+
 Description:
 This is a text filter for Moodle that converts YouTube hyperlinks into placeholder images. When clicked the embed code is inserted.
 
